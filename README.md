@@ -83,4 +83,4 @@ This project demonstrates a complete machine learning workflow for predicting ho
 
 👨‍💻 Author
 Soumyajit Bag
-CSE (AI/ML) Student
+CSE Student
